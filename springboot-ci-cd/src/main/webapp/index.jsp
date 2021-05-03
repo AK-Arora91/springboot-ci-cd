@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body style="background-color: orange">
-	<h1>CI/CD Deployment for Springboot Application.</h1>
+<br><br>
+	<h1 style="text-align: center">CI/CD Deployment for SpringBoot Application.</h1>
 </body>
 </html>
